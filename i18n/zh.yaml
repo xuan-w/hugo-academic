@@ -70,7 +70,7 @@
 # About widget
 
 - id: interests
-  translation: 兴趣爱好
+  translation: 兴趣
 
 - id: education
   translation: 教育经历
